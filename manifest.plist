@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://labaihapps.github.io/labaihapps/AdHocTest.ipa</string>
+					<string>https://labaihapps.github.io/AdHocTest.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://labaihapps.github.io/labaihapps/image.57x57.png</string>
+					<string>https://labaihapps.github.io/image.57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://labaihapps.github.io/labaihapps/image.512x512.png </string>
+					<string>https://labaihapps.github.io/image.512x512.png </string>
 				</dict>
 			</array>
 			<key>metadata</key>
