@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://labaihapps.github.io/labaihapps/AdHocTest.ipa</string>
+		<string>https://labaihapps.github.io/AdHocTest.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://labaihapps.github.io/labaihapps/image.57x57.png</string>
+		<string>https://labaihapps.github.io/image.57x57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://labaihapps.github.io/labaihapps/image.512x512.png </string>
+		<string>https://labaihapps.github.io/image.512x512.png </string>
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
