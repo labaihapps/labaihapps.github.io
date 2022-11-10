@@ -1,0 +1,136 @@
+2022-11-10 07:32:15 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x1239274a0; archive(resolved)="<IDEArchive: 0x600016073a80>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodiOSAdHoc: 0x600008813790>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x6000017292c0; teamID='93Z498U8MN', teamName='LaBaih eCommerce Co.', teamType='Company', username='m.elsheikh@mylabaih.com', isFreeProvisioningTeam='0'>">
+	Chain (14, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x1239274a0; archive = "<IDEArchive: 0x600016073a80>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600008813790>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000017292c0; teamID='93Z498U8MN', teamName='LaBaih eCommerce Co.', teamType='Company', username='m.elsheikh@mylabaih.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x12395d820; archive = "<IDEArchive: 0x600016073a80>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600008813790>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000017292c0; teamID='93Z498U8MN', teamName='LaBaih eCommerce Co.', teamType='Company', username='m.elsheikh@mylabaih.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2c098bfc0; archive = "<IDEArchive: 0x600016073a80>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600008813790>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000017292c0; teamID='93Z498U8MN', teamName='LaBaih eCommerce Co.', teamType='Company', username='m.elsheikh@mylabaih.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2c0f3c770; archive = "<IDEArchive: 0x600016073a80>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600008813790>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000017292c0; teamID='93Z498U8MN', teamName='LaBaih eCommerce Co.', teamType='Company', username='m.elsheikh@mylabaih.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2c10def50; archive = "<IDEArchive: 0x600016073a80>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600008813790>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000017292c0; teamID='93Z498U8MN', teamName='LaBaih eCommerce Co.', teamType='Company', username='m.elsheikh@mylabaih.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2c0fa7990; archive = "<IDEArchive: 0x600016073a80>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600008813790>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000017292c0; teamID='93Z498U8MN', teamName='LaBaih eCommerce Co.', teamType='Company', username='m.elsheikh@mylabaih.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x165604930; archive = "<IDEArchive: 0x600016073a80>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600008813790>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000017292c0; teamID='93Z498U8MN', teamName='LaBaih eCommerce Co.', teamType='Company', username='m.elsheikh@mylabaih.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x165647270; archive = "<IDEArchive: 0x600016073a80>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600008813790>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000017292c0; teamID='93Z498U8MN', teamName='LaBaih eCommerce Co.', teamType='Company', username='m.elsheikh@mylabaih.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x1239dd370; archive = "<IDEArchive: 0x600016073a80>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600008813790>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000017292c0; teamID='93Z498U8MN', teamName='LaBaih eCommerce Co.', teamType='Company', username='m.elsheikh@mylabaih.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x12396c020; archive = "<IDEArchive: 0x600016073a80>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600008813790>", team="(null)">
+	<IDEDistributionContext: 0x2c10e0f70; archive = "<IDEArchive: 0x600016073a80>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600008813790>", team="(null)">
+	<IDEDistributionContext: 0x2c1607bd0; archive = "<IDEArchive: 0x600016073a80>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600008813790>", team="(null)">
+	<IDEDistributionContext: 0x2c09d60a0; archive = "<IDEArchive: 0x600016073a80>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600008813790>", team="(null)">
+	<IDEDistributionContext: 0x2c09d8060; archive = "<IDEArchive: 0x600016073a80>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x1239274a0>
+2022-11-10 07:32:15 +0000  Processing step: IDEDistributionCreateDestRootStep
+2022-11-10 07:32:15 +0000  Processing step: IDEDistributionCopyItemStep
+2022-11-10 07:32:15 +0000  Running /usr/bin/ditto '-V' '/Users/labaih/Library/Developer/Xcode/Archives/2022-11-10/AdHocTest 10-11-2022, 10.12 AM.xcarchive/Products/Applications/AdHocTest.app' '/var/folders/r9/0600j0850xl_1gss3hsmvrx00000gn/T/XcodeDistPipeline.~~~FTvmHd/Root/Payload/AdHocTest.app'
+2022-11-10 07:32:15 +0000  >>> Copying /Users/labaih/Library/Developer/Xcode/Archives/2022-11-10/AdHocTest 10-11-2022, 10.12 AM.xcarchive/Products/Applications/AdHocTest.app 
+2022-11-10 07:32:15 +0000  copying file ./_CodeSignature/CodeResources ... 
+2022-11-10 07:32:15 +0000  3895 bytes for ./_CodeSignature/CodeResources
+2022-11-10 07:32:15 +0000  copying file ./AdHocTest ... 
+2022-11-10 07:32:15 +0000  88464 bytes for ./AdHocTest
+2022-11-10 07:32:15 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2022-11-10 07:32:15 +0000  932 bytes for ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+2022-11-10 07:32:15 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2022-11-10 07:32:15 +0000  2400 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2022-11-10 07:32:15 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2022-11-10 07:32:15 +0000  258 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2022-11-10 07:32:15 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2022-11-10 07:32:15 +0000  1197 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2022-11-10 07:32:15 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2022-11-10 07:32:15 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2022-11-10 07:32:15 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2022-11-10 07:32:15 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2022-11-10 07:32:15 +0000  copying file ./embedded.mobileprovision ... 
+2022-11-10 07:32:15 +0000  19319 bytes for ./embedded.mobileprovision
+2022-11-10 07:32:15 +0000  copying file ./Info.plist ... 
+2022-11-10 07:32:15 +0000  1473 bytes for ./Info.plist
+2022-11-10 07:32:15 +0000  copying file ./PkgInfo ... 
+2022-11-10 07:32:15 +0000  8 bytes for ./PkgInfo
+2022-11-10 07:32:15 +0000  /usr/bin/ditto exited with 0
+2022-11-10 07:32:15 +0000  Processing step: IDEDistributionEmbedProfileStep
+2022-11-10 07:32:15 +0000  Processing step: IDEDistributionInfoPlistStep
+2022-11-10 07:32:15 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2022-11-10 07:32:15 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2022-11-10 07:32:15 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2022-11-10 07:32:15 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2022-11-10 07:32:15 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2022-11-10 07:32:15 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2022-11-10 07:32:15 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2022-11-10 07:32:15 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2022-11-10 07:32:15 +0000  Processing step: IDEDistributionSymbolsStep
+2022-11-10 07:32:15 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2022-11-10 07:32:15 +0000  Processing step: IDEDistributionAppThinningStep
+2022-11-10 07:32:15 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2022-11-10 07:32:15 +0000  Processing step: IDEDistributionArchThinningStep
+2022-11-10 07:32:15 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/r9/0600j0850xl_1gss3hsmvrx00000gn/T/XcodeDistPipeline.~~~FTvmHd/Root/Payload/AdHocTest.app/AdHocTest' '-verify_arch' 'arm64e'
+2022-11-10 07:32:15 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2022-11-10 07:32:15 +0000  Skipping architecture thinning for item "AdHocTest" because arch "arm64e" wasn't found
+2022-11-10 07:32:15 +0000  Processing step: IDEDistributionODRStep
+2022-11-10 07:32:15 +0000  Processing step: IDEDistributionStripXattrsStep
+2022-11-10 07:32:15 +0000  Running /usr/bin/xattr '-crs' '/var/folders/r9/0600j0850xl_1gss3hsmvrx00000gn/T/XcodeDistPipeline.~~~FTvmHd/Root/Payload/AdHocTest.app'
+2022-11-10 07:32:15 +0000  /usr/bin/xattr exited with 0
+2022-11-10 07:32:15 +0000  Processing step: IDEDistributionCodesignStep
+2022-11-10 07:32:15 +0000  Entitlements for <IDEDistributionItem: 0x600016072d00; bundleID='com.mylabaih.AdHocTest', path='<DVTFilePath:0x60000a34e990:'/Users/labaih/Library/Developer/Xcode/Archives/2022-11-10/AdHocTest 10-11-2022, 10.12 AM.xcarchive/Products/Applications/AdHocTest.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000329eb390; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600007d38bb0; name='Apple Development: Mohammed Elshiekh (WCAT6W7QX6)', hash='68334ABD42FA6C59403C653CE572C35A4CE6872C', serialNumber='1747B4FF5462D51575BF4E0F962299C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-06-05 08:54:47 +0000''>', entitlements='{
+    "application-identifier" = "93Z498U8MN.com.mylabaih.AdHocTest";
+    "com.apple.developer.team-identifier" = 93Z498U8MN;
+    "get-task-allow" = 1;
+}', teamID='93Z498U8MN', identifier='com.mylabaih.AdHocTest', executablePath='<DVTFilePath:0x60000a3e8770:'/Users/labaih/Library/Developer/Xcode/Archives/2022-11-10/AdHocTest 10-11-2022, 10.12 AM.xcarchive/Products/Applications/AdHocTest.app/AdHocTest'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "93Z498U8MN.com.mylabaih.AdHocTest";
+    "com.apple.developer.team-identifier" = 93Z498U8MN;
+    "get-task-allow" = 0;
+}
+2022-11-10 07:32:15 +0000  Entitlements for <IDEDistributionItem: 0x600016072d00; bundleID='com.mylabaih.AdHocTest', path='<DVTFilePath:0x60000a34e990:'/Users/labaih/Library/Developer/Xcode/Archives/2022-11-10/AdHocTest 10-11-2022, 10.12 AM.xcarchive/Products/Applications/AdHocTest.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000329eb390; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003d46100; name='Apple Development: Mohammed Elshiekh (WCAT6W7QX6)', hash='68334ABD42FA6C59403C653CE572C35A4CE6872C', serialNumber='1747B4FF5462D51575BF4E0F962299C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-06-05 08:54:47 +0000''>', entitlements='{
+    "application-identifier" = "93Z498U8MN.com.mylabaih.AdHocTest";
+    "com.apple.developer.team-identifier" = 93Z498U8MN;
+    "get-task-allow" = 1;
+}', teamID='93Z498U8MN', identifier='com.mylabaih.AdHocTest', executablePath='<DVTFilePath:0x60000a3e8770:'/Users/labaih/Library/Developer/Xcode/Archives/2022-11-10/AdHocTest 10-11-2022, 10.12 AM.xcarchive/Products/Applications/AdHocTest.app/AdHocTest'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "93Z498U8MN.com.mylabaih.AdHocTest";
+    "com.apple.developer.team-identifier" = 93Z498U8MN;
+    "get-task-allow" = 0;
+}
+2022-11-10 07:32:15 +0000  Writing entitlements for <IDEDistributionItem: 0x600016072d00; bundleID='com.mylabaih.AdHocTest', path='<DVTFilePath:0x60000a34e990:'/Users/labaih/Library/Developer/Xcode/Archives/2022-11-10/AdHocTest 10-11-2022, 10.12 AM.xcarchive/Products/Applications/AdHocTest.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000329eb390; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600007d3b0d0; name='Apple Development: Mohammed Elshiekh (WCAT6W7QX6)', hash='68334ABD42FA6C59403C653CE572C35A4CE6872C', serialNumber='1747B4FF5462D51575BF4E0F962299C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-06-05 08:54:47 +0000''>', entitlements='{
+    "application-identifier" = "93Z498U8MN.com.mylabaih.AdHocTest";
+    "com.apple.developer.team-identifier" = 93Z498U8MN;
+    "get-task-allow" = 1;
+}', teamID='93Z498U8MN', identifier='com.mylabaih.AdHocTest', executablePath='<DVTFilePath:0x60000a3e8770:'/Users/labaih/Library/Developer/Xcode/Archives/2022-11-10/AdHocTest 10-11-2022, 10.12 AM.xcarchive/Products/Applications/AdHocTest.app/AdHocTest'>', hardenedRuntime='0'>'> to: /var/folders/r9/0600j0850xl_1gss3hsmvrx00000gn/T/XcodeDistPipeline.~~~FTvmHd/entitlements~~~6TlYBt
+2022-11-10 07:32:15 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'DC9D9C185900849D63C6330F91D7F3055E4E32C4' '--entitlements' '/var/folders/r9/0600j0850xl_1gss3hsmvrx00000gn/T/XcodeDistPipeline.~~~FTvmHd/entitlements~~~6TlYBt' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/r9/0600j0850xl_1gss3hsmvrx00000gn/T/XcodeDistPipeline.~~~FTvmHd/Root/Payload/AdHocTest.app'
+2022-11-10 07:32:15 +0000  /var/folders/r9/0600j0850xl_1gss3hsmvrx00000gn/T/XcodeDistPipeline.~~~FTvmHd/Root/Payload/AdHocTest.app: replacing existing signature
+2022-11-10 07:32:15 +0000  /var/folders/r9/0600j0850xl_1gss3hsmvrx00000gn/T/XcodeDistPipeline.~~~FTvmHd/Root/Payload/AdHocTest.app: signed app bundle with Mach-O thin (arm64) [com.mylabaih.AdHocTest]
+2022-11-10 07:32:15 +0000  /usr/bin/codesign exited with 0
+2022-11-10 07:32:15 +0000  Processing step: IDEDistributionZipODRItemStep
+2022-11-10 07:32:15 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-11-10 07:32:15 +0000  Processing step: IDEDistributionCreateIPAStep
+2022-11-10 07:32:15 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/r9/0600j0850xl_1gss3hsmvrx00000gn/T/XcodeDistPipeline.~~~FTvmHd/Root' '/var/folders/r9/0600j0850xl_1gss3hsmvrx00000gn/T/XcodeDistPipeline.~~~FTvmHd/Packages/AdHocTest.ipa'
+2022-11-10 07:32:15 +0000  >>> Copying /var/folders/r9/0600j0850xl_1gss3hsmvrx00000gn/T/XcodeDistPipeline.~~~FTvmHd/Root 
+2022-11-10 07:32:15 +0000  copying file ./Payload/AdHocTest.app/_CodeSignature/CodeResources ... 
+2022-11-10 07:32:15 +0000  3895 bytes for ./Payload/AdHocTest.app/_CodeSignature/CodeResources
+2022-11-10 07:32:15 +0000  copying file ./Payload/AdHocTest.app/AdHocTest ... 
+2022-11-10 07:32:15 +0000  88464 bytes for ./Payload/AdHocTest.app/AdHocTest
+2022-11-10 07:32:15 +0000  copying file ./Payload/AdHocTest.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2022-11-10 07:32:15 +0000  932 bytes for ./Payload/AdHocTest.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+2022-11-10 07:32:15 +0000  copying file ./Payload/AdHocTest.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2022-11-10 07:32:15 +0000  2400 bytes for ./Payload/AdHocTest.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2022-11-10 07:32:15 +0000  copying file ./Payload/AdHocTest.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2022-11-10 07:32:15 +0000  258 bytes for ./Payload/AdHocTest.app/Base.lproj/Main.storyboardc/Info.plist
+2022-11-10 07:32:15 +0000  copying file ./Payload/AdHocTest.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2022-11-10 07:32:15 +0000  1197 bytes for ./Payload/AdHocTest.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2022-11-10 07:32:15 +0000  copying file ./Payload/AdHocTest.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2022-11-10 07:32:15 +0000  896 bytes for ./Payload/AdHocTest.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2022-11-10 07:32:15 +0000  copying file ./Payload/AdHocTest.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2022-11-10 07:32:15 +0000  258 bytes for ./Payload/AdHocTest.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Payload/AdHocTest.app/embedded.mobileprovision ... 
+2022-11-10 07:32:15 +0000  16124 bytes for ./Payload/AdHocTest.app/embedded.mobileprovision
+2022-11-10 07:32:15 +0000  copying file ./Payload/AdHocTest.app/Info.plist ... 
+2022-11-10 07:32:15 +0000  1473 bytes for ./Payload/AdHocTest.app/Info.plist
+2022-11-10 07:32:15 +0000  copying file ./Payload/AdHocTest.app/PkgInfo ... 
+2022-11-10 07:32:15 +0000  8 bytes for ./Payload/AdHocTest.app/PkgInfo
+2022-11-10 07:32:15 +0000  /usr/bin/ditto exited with 0
+2022-11-10 07:32:15 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2022-11-10 07:32:15 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2022-11-10 07:32:15 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2022-11-10 07:32:15 +0000  IDEDistributionItem init <DVTFilePath:0x60000a3ccd90:'/var/folders/r9/0600j0850xl_1gss3hsmvrx00000gn/T/XcodeDistPipeline.~~~FTvmHd/Root/Payload/AdHocTest.app'>
+2022-11-10 07:32:15 +0000  Processing step: IDEDistributionCreateManifestStep

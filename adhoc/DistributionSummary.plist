@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AdHocTest.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>DC9D9C185900849D63C6330F91D7F3055E4E32C4</string>
+				<key>dateExpires</key>
+				<string>02/11/2023</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>93Z498U8MN.com.mylabaih.AdHocTest</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>93Z498U8MN</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>AdHocTest.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>34492dd9-28c3-435f-8fad-a53008257e5a</string>
+				<key>dateExpires</key>
+				<string>02/11/2023</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.mylabaih.AdHocTest</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>93Z498U8MN</string>
+				<key>name</key>
+				<string>LaBaih eCommerce Co.</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
